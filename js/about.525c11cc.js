@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3_graduation_eplatform"]=self["webpackChunkvue3_graduation_eplatform"]||[]).push([[443],{7381:function(a,n,u){u.r(n),u.d(n,{default:function(){return l}});var t=u(3396);const e={class:"about"},r=(0,t._)("h1",null,"This is an about page",-1),o=[r];function s(a,n){return(0,t.wg)(),(0,t.iD)("div",e,o)}var i=u(89);const c={},f=(0,i.Z)(c,[["render",s]]);var l=f}}]);
+//# sourceMappingURL=about.525c11cc.js.map
